@@ -6,6 +6,5 @@ def per():
             print(j,end = ' ')
         print()
         print()
-        print('-------------')
-        print('^^^^^^^^^^^^^')
+        
         
