@@ -6,5 +6,6 @@ def per():
             print(j,end = ' ')
         print()
         print()
-        
-        
+
+def something():
+    return 'something'
