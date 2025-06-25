@@ -7,4 +7,5 @@ def per():
         print()
         print()
         print('-------------')
+        print('^^^^^^^^^^^^^')
         
